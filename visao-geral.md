@@ -39,14 +39,13 @@ instalação ou agentes que alterem dados de negócio.
 
 ## Como ler a documentação
 
-- [Product brief](./product-brief.md): explica o problema, o público, os objetivos e o escopo do
+- [Product brief](docs/product-brief.md): explica o problema, o público, os objetivos e o escopo do
   produto — o que será feito e para quem.
-- [HLD](./hld.md): apresenta o desenho de alto nível, os componentes, integrações, fluxos e
+- [HLD](docs/hld.md): apresenta o desenho de alto nível, os componentes, integrações, fluxos e
   decisões de arquitetura.
-- [LLD](./lld.md): detalha a implementação, incluindo estrutura do código, dados, interfaces e
+- [LLD](docs/lld.md): detalha a implementação, incluindo estrutura do código, dados, interfaces e
   regras.
-- [ADRs](./adr/): registram decisões de arquitetura e suas justificativas.
 
 Esses documentos estão em rascunho e algumas decisões e questões permanecem em aberto. O nome
-varia entre os documentos atuais: “Developer Chat” no product brief e “Full Cycle Chat” no HLD e
-no LLD; a nomenclatura final ainda precisa ser alinhada.
+varia entre os documentos atuais: “Developer Chat” no product brief e “Developer Chat Chat” no HLD
+e no LLD; a nomenclatura final ainda precisa ser alinhada.
